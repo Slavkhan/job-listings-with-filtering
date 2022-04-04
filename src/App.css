@@ -1,0 +1,12 @@
+#root {
+  padding-top: 76px;
+  height: 100%;
+  width: 100%;
+  max-width: 1366px;
+  margin: auto;
+  background: url(/public/images/bg-header-desktop.svg) center top, linear-gradient(#5ca5a5 156px, #effafa 156px);
+  background-repeat: no-repeat;
+}
+.btn {
+  padding: 4px 8px !important;
+}
